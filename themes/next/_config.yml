@@ -152,8 +152,8 @@ links:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar: /images/avatar.jpg 头像
-avatar: https://img-blog.csdn.net/20180401145847511
+avatar: /images/touxiang.gif
+# avatar: https://img-blog.csdn.net/20180401145847511
 
 
 
